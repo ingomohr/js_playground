@@ -1,0 +1,13 @@
+.active-star {
+    font-size: 500%;
+    color: gold;
+    cursor: pointer;
+    user-select: none;
+}
+
+.inactive-star {
+    font-size: 500%;
+    color: gray;
+    cursor: pointer;
+    user-select: none;
+}
